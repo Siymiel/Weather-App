@@ -1,0 +1,26 @@
+{
+  "name": "Weather-App",
+  "version": "1.0.0",
+  "description": "A weather application using vanilla javascript and the myweather API to fetch data",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages -d weather-app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Siymiel.github.io/Weather-App.git"
+  },
+  "keywords": [
+    "API",
+    "JavaScript"
+  ],
+  "author": "Samuel Kinuthia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://Siymiel.github.io/Weather-App/issues"
+  },
+  "homepage": "https://Siymiel.github.io/Weather-App",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
