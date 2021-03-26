@@ -7,7 +7,7 @@ A Weather application that fetches Data using the My Weather API by searching us
 Download the zip file or clone the repo to your local computer 
 
 ```bash
-pip install foobar
+git clone https://github.com/Siymiel/Weather-App.git
 ```
 
 ## Usage
